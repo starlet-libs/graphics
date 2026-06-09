@@ -29,7 +29,7 @@ A lightweight graphics loading &amp; management library for Starlet projects wit
 include(FetchContent)
 
 FetchContent_Declare(starlet_graphics
-  GIT_REPOSITORY https://github.com/masonlet/starlet-graphics.git 
+  GIT_REPOSITORY https://github.com/starlet-libs/graphics.git
   GIT_TAG main
 )
 FetchContent_MakeAvailable(starlet_graphics)
